@@ -1,2 +1,0 @@
-runtime: php82
-entrypoint: serve server.php
